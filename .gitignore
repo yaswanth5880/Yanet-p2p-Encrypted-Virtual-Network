@@ -1,0 +1,32 @@
+# Build output
+build/
+out/
+cmake-build-*/
+.vs/
+
+# Runtime data
+yanet_data/
+*.secret
+
+# Object files
+*.obj
+*.o
+*.lib
+*.dll
+*.exe
+*.pdb
+*.exp
+*.ilk
+
+# IDE
+.vscode/settings.json
+*.suo
+*.user
+*.sln.docstates
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Downloaded archives
+ext/**/*.zip

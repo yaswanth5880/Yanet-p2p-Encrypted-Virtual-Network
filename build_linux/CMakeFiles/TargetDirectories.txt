@@ -1,0 +1,8 @@
+/mnt/d/projects/Yanet/build_linux/CMakeFiles/yanet_core.dir
+/mnt/d/projects/Yanet/build_linux/CMakeFiles/yanet.dir
+/mnt/d/projects/Yanet/build_linux/CMakeFiles/edit_cache.dir
+/mnt/d/projects/Yanet/build_linux/CMakeFiles/rebuild_cache.dir
+/mnt/d/projects/Yanet/build_linux/CMakeFiles/list_install_components.dir
+/mnt/d/projects/Yanet/build_linux/CMakeFiles/install.dir
+/mnt/d/projects/Yanet/build_linux/CMakeFiles/install/local.dir
+/mnt/d/projects/Yanet/build_linux/CMakeFiles/install/strip.dir

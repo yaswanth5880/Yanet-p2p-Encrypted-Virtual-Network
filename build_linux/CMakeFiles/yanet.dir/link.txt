@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/yanet.dir/link.d CMakeFiles/yanet.dir/src/main.cpp.o -o yanet  libyanet_core.a -lsodium

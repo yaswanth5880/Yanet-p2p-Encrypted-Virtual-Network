@@ -1,0 +1,2 @@
+/usr/bin/ar qc libyanet_core.a CMakeFiles/yanet_core.dir/src/core/identity.cpp.o CMakeFiles/yanet_core.dir/src/core/crypto.cpp.o CMakeFiles/yanet_core.dir/src/core/transport.cpp.o CMakeFiles/yanet_core.dir/src/core/packet.cpp.o CMakeFiles/yanet_core.dir/src/core/peer.cpp.o
+/usr/bin/ranlib libyanet_core.a

@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/mnt/d/projects/Yanet/build_linux/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

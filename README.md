@@ -88,6 +88,3 @@ Each YaNet packet has a 22-byte header:
 - **Address Derivation**: BLAKE2b hash of public key
 - **Library**: libsodium (audited, battle-tested)
 
-## License
-
-MIT License — Yaswanth
